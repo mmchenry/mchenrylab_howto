@@ -77,9 +77,19 @@ When running code in VS Code, you'll want to specify that you will be running it
 
 ## Github
 
-Github is a Source Control Provider (SCP), which is a cloud service for hosting code using the Git version control system. 
-Git is installed on MacOS and Linux, but not Windows.
-There's lots to learn about the workings of Git and the use of Github, but for the moment think of it as a means of distributing code, even if it's just for people in your lab. 
+[Github](https://github.com) is a Source Control Provider (SCP), which is a cloud service for hosting code using the Git version control system. 
+To use it, you will first need to create a github account.
+Access to GitHub's educational license, called the [GitHub Global Campus](https://education.github.com/discount_requests/pack_application) is necessary for Pro-level features and access to Copilot, so provide your credentials to get access to that license.
+
+You will also need both low-level code and a client app on your computer.
+The low-level code for git is installed on MacOS and Linux, but not Windows.
+There's lots to learn about the workings of git and the use of Github, but for the moment think of it as a means of distributing code, even if it's just for people in your lab. 
+ Note that VS Code has an integrated 'Source Control' tab on the left-hand pallet for managing code via GitHub. 
  
- VS Code has a 'Source Control' tab on the left-hand pallet for managing Pulls (i.e. code downloads) and to monitor the status of files in your local copy of the 'archive'. 
- The archive is the current version of the code, as well as its entire history of versions.
+
+ ## Github Copilot
+
+This service, developed by OpenAI, allows for the generation of code in plain language. 
+It is by no means flawless and will still require learning some coding basics to make it useful.
+Nonetheless, Copilot can be a huge timesaver and is certainly worth using as you learn the ropes on Python. 
+Members of the Github Global Campus [are eligible](https://github.blog/2022-09-08-github-copilot-now-available-for-teachers/) and it is integrated into VS Code. 
