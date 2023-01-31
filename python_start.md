@@ -87,7 +87,7 @@ There's lots to learn about the workings of git and the use of Github, but for t
  Note that VS Code has an integrated 'Source Control' tab on the left-hand pallet for managing code via GitHub. 
  
 
- ## Github Copilot
+## Github Copilot
 
 This service, developed by OpenAI, allows for the generation of code in plain language. 
 It is by no means flawless and will still require learning some coding basics to make it useful.
